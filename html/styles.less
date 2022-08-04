@@ -1,0 +1,74 @@
+
+//Variables
+@plainwhite: white;
+@error:red;
+@mainblue: #1f4c7c;
+@maingrey: #505050;
+
+//Mixins
+
+.button-blue {
+background: linear-gradient(to bottom, #1f4c7c 0%,#123357 100%);
+color:@plainwhite;
+font-weight: bold;
+outline:none;
+border:0px;
+}
+
+
+//Bootstrap Redefinitions
+.btn-primary{
+  .button-blue();
+}
+
+
+/*Anfang Styles Seite Login Interner Bereich*/
+
+#log-in{
+  margin-top: 30px;
+  .error-login-error{
+    color:@error;
+  }
+}
+
+.kmp-logo{
+  .container{
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+/*Ende Style Seite Login Interner Bereich*/
+
+
+/*Anfang Style HomeSeite */
+
+
+h1 {
+  font-size: 160%;
+  font-weight: bold;
+  margin-top: 0.5em;
+  color: @mainblue;
+}
+
+h6 {
+font-size: 110%;
+font-weight: bold;
+margin-bottom: 0.5em;
+color: @mainblue;
+}
+
+li {
+  color: @maingrey;
+}
+
+a:hover{
+  text-decoration: underline;
+  text-decoration-color: @mainblue;
+}
+
+.maindiv {
+  
+}

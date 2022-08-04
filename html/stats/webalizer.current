@@ -1,0 +1,193 @@
+# Webalizer V2.23-08 Incremental Data - 08/03/2022 14:07:08
+2022 8 3 14 7 8
+428 357 5 14 7 5 6551757 219 11 0
+4 8 87 2 3
+0 0 0 0 0 0
+169 142 1239463 4 91 6
+259 215 5312294 4 128 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 5 484666 2
+20 20 43634 17
+59 50 107868 29
+39 38 565482 29
+61 52 578602 34
+99 79 680609 49
+130 102 4065432 51
+13 11 25464 8
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+357
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+0
+58
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/less.js
+0 11 0 5248148 0 0
+/assets/img/kmpheader.jpg
+1 4 0 322009 0 0
+/assets/img/philosophie.jpg
+1 4 0 123650 0 0
+/mittwald_system_pages/img/seiten.png
+1 2 0 25621 0 0
+/mittwald_system_pages/img/back-gradient.jpg
+1 2 0 2100 0 0
+/pages/leistungen.php
+0 5 0 16790 0 0
+/extensions/steuerhotline/indexstrhtl.php
+0 1 0 326 0 0
+/
+0 217 0 557071 11 6
+/mittwald_system_pages/img/unten.png
+1 3 0 14088 0 0
+/mittwald_system_pages/img/oben.png
+1 2 0 2258 0 0
+/mittwald_system_pages/css/style.css
+0 2 0 3967 0 0
+/mittwald_system_pages/img/rad.jpg
+1 2 0 45993 0 0
+/styles.less
+0 113 0 92811 0 0
+/mittwald_system_pages/img/verlauf.jpg
+1 2 0 30965 0 0
+# End Of Table - urls
+# -sites- (monthly)
+24.134.146.0
+0 4 3 481921 1 1659523123
+/
+205.210.31.0
+0 1 1 2061 1 1659432292
+/
+93.214.224.0
+0 80 58 4212204 5 1659533558
+/
+178.27.185.0
+0 339 293 1848321 3 1659535628
+/
+52.114.75.0
+0 4 2 7250 1 1659438893
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+24.134.146.0
+0 4 3 481921 1 1659523123
+/
+93.214.224.0
+0 69 49 3724887 2 1659533558
+/
+178.27.185.0
+0 184 162 1100378 2 1659535628
+/
+52.114.75.0
+0 2 1 5108 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://p619698.mittwaldserver.info/mittwald_system_pages/css/style.css
+0 13
+http://p619698.mittwaldserver.info/
+0 177
+- (Direct Request)
+0 228
+http://p619698.mittwaldserver.info/leistungen
+0 1
+http://p619698.mittwaldserver.info/pages/leistungen.php
+0 6
+http://p619698.mittwaldserver.info/html/Leistungen.php
+0 2
+http://p619698.mittwaldserver.info/html/assets/img/philosophie.jpg
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+0 318
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+0 101
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5 skype-url-preview@microsoft.com
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
